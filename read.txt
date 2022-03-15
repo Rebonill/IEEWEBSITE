@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello.txt lol
+=======
+Hello.txt
+did it work!!
+>>>>>>> c060b95fcd10cb9f98bbc02aae8adcb45f551875
